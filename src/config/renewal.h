@@ -30,7 +30,7 @@
 /// (disable by commenting the line)
 ///
 /// leave this line to enable renewal specific support such as renewal formulas
-#define RENEWAL
+//#define RENEWAL
 
 /// renewal cast time
 /// (disable by commenting the line)
